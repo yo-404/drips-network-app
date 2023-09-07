@@ -27,6 +27,7 @@ jobs:
             "**.ts"
             "**.svelte"
             "**.js"
+            "**.md"
             
     
     
@@ -43,6 +44,7 @@ jobs:
             "**.ts"
             "**.svelte"
             "**.js"
+            "**.md"
           exclude: |
             ./.git/*
             ./.cache/*
